@@ -1,2 +1,3 @@
-#sample website
-This is a sample website for learn the [*learnenough*] (http://learnenough.com)
+# Sample Website
+
+This is a sample website for learn the [*learnenough*](http://learnenough.com).
